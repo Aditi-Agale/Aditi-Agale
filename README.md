@@ -31,6 +31,7 @@ Driven by curiosity and a love for data, I’m always exploring new ways to make
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aditi-Agale&show_icons=true&theme=radical" alt="Aditi's GitHub Stats" /> </p> <p align="center"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi-Agale&layout=compact&theme=radical" alt="Aditi's Top Languages" /> </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
